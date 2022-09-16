@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anatalau
-- 👀 I’m interested in  aprender
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on  no curso 
-  📫 How to reach me ana.talau.braga@escola.pr.gov.br
+- 👋 oi, sou @anatalau
+- 👀 estou interesada em  aprender
+- 🌱 estou aprendendo Github
+- 💞️ estou colaborando no curso 
+  📫 email: ana.talau.braga@escola.pr.gov.br
 
 <!---
 anatalau/anatalau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
